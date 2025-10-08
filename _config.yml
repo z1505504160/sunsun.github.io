@@ -5,3 +5,9 @@ url: "https://z1505504160.github.io/sunsun.github.io" # 改成你的 GitHub Page
 theme: minima
 paginate: 10
 theme: jekyll-theme-minimal
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "home"
