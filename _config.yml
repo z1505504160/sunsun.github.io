@@ -4,3 +4,4 @@ baseurl: "" # 不改
 url: "https://z1505504160.github.io/sunsun.github.io" # 改成你的 GitHub Pages URL
 theme: minima
 paginate: 10
+theme: jekyll-theme-minimal
