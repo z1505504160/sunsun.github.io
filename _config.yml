@@ -1,6 +1,6 @@
 title: "我的个人博客"
 description: "桐和隼的生活日记"
-baseurl: ""
+baseurl: "/sunsun.github.io"
 url: "https://z1505504160.github.io"
 theme: jekyll-theme-minimal
 paginate: 5
