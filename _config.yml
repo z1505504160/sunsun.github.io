@@ -1,7 +1,7 @@
 title: 桐的个人博客
 description:桐和隼的生活日记
-baseurl: "" # 不改
-url: "https://z1505504160.github.io/sunsun.github.io" # 改成你的 GitHub Pages URL
+baseurl: "" 
+url: "https://z1505504160.github.io/sunsun.github.io" 
 theme: minima
 paginate: 10
 theme: jekyll-theme-minimal
