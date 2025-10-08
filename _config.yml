@@ -1,9 +1,10 @@
-title: 桐的个人博客
-description:桐和隼的生活日记
-baseurl: "" 
-url: "https://z1505504160.github.io/sunsun.github.io" 
-paginate: 10
+title: "我的个人博客"
+email: "1505504160@qq.com"
+description: "桐和隼的生活日记"
+baseurl: ""
+url: "https://z1505504160.github.io/sunsun.github.io"
 theme: jekyll-theme-minimal
+paginate: 10
 defaults:
   - scope:
       path: ""
